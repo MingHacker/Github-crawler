@@ -14,9 +14,4 @@ When a user visits / refreshes the page:
 - Take those repos and display them on the page
 
 
-# Demo
-
-[Heroku Link](https://peaceful-plains-54630.herokuapp.com/)
-
-
 
